@@ -1,8 +1,14 @@
 # 🤖 RobotCar
 
-<p align="center">
-  <img src="projImages/robocarheroimage.png" alt="Om's RobotCar" width="650">
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="projImages/robocarheroimage.png" alt="Om's RobotCar" width="650">
+      <br>
+      <sub><b>Om's RobotCar</b> — Raspberry Pi-powered autonomous obstacle-avoiding robot car</sub>
+    </td>
+  </tr>
+</table>
 
 A Raspberry Pi-powered four-wheel robot car with manual control and autonomous obstacle avoidance.
 
