@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://omspace.dev"><strong>OM.</strong></a> &nbsp;/&nbsp; SELECTED WORK &nbsp;/&nbsp; ROBOTICS
+  <strong>OM.</strong> &nbsp;/&nbsp; SELECTED WORK &nbsp;/&nbsp; ROBOTICS
 </p>
 
 <h1 align="center">Autonomous RobotCar</h1>
@@ -13,7 +13,6 @@
 </p>
 
 <p align="center">
-  <a href="https://omspace.dev/pages/project-robot-car.html">Project story</a> &nbsp;·&nbsp;
   <a href="https://www.youtube.com/watch?v=gdj-aWxs_uI">Watch demo</a> &nbsp;·&nbsp;
   <a href="GALLERY.md">Photo gallery</a> &nbsp;·&nbsp;
   <a href="docs/BUILD.md">Build guide</a>
@@ -198,7 +197,7 @@ Ultrasonic distance readings indicate how far away an obstacle is, but not what 
 ---
 
 <p align="center">
-  <a href="https://omspace.dev"><strong>OM.</strong></a><br>
+  strong>OM.</strong><br>
   <sub>Built by Om Chatterjee · Robotics · Software · Learning by building</sub><br>
-  <a href="https://omspace.dev/pages/project-robot-car.html">Project portfolio</a> &nbsp;·&nbsp; <a href="GALLERY.md">Photo gallery</a> &nbsp;·&nbsp; <a href="#autonomous-robotcar">Back to top ↑</a>
+ <a href="GALLERY.md">Photo gallery</a> &nbsp;·&nbsp; <a href="#autonomous-robotcar">Back to top ↑</a>
 </p>
