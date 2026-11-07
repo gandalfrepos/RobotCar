@@ -22,7 +22,12 @@ The car uses two DRV8833 motor drivers, four DC motors, and three ultrasonic sen
 * 2 × motor battery packs
 * Robot chassis and wheels
 
-See [Parts List](docs/PARTS.md) for the complete parts list.
+## Documentation
+
+* 📦 [Parts List](docs/PARTS.md)
+* 🔧 [Build & Wiring Guide](docs/BUILD.md)
+* 💻 [Software Setup](docs/SOFTWARE.md)
+* 🔌 [Wiring Diagram](docs/drawings/pi-wiring.png)
 
 ## 📸 Project Photo Gallery
 
@@ -92,13 +97,6 @@ If an obstacle is detected, it can:
 * Continue driving
 
 Manual controls can also temporarily override autonomous mode.
-
-## Documentation
-
-* 📦 [Parts List](docs/PARTS.md)
-* 🔧 [Build & Wiring Guide](docs/BUILD.md)
-* 💻 [Software Setup](docs/SOFTWARE.md)
-* 🔌 [Wiring Diagram](docs/drawings/pi-wiring.png)
 
 ## Project Updates
 
