@@ -28,33 +28,33 @@ See [Parts List](docs/PARTS.md) for the complete parts list.
 
 Photos documenting the completed RobotCar, its ultrasonic sensors, Raspberry Pi wiring, and early development stages. **Click any image to view the full-resolution photo.**
 
-All photos are stored in [`projimages/`](projimages/).
+All photos are stored in [`projImages/`](projImages/).
 
 ### 🚗 Complete RobotCar and Chassis Views
 
 <table>
   <tr>
-    <td align="center" width="50%"><a href="projimages/robotcar-complete-side-profile-checkered-mat.jpg"><img src="projimages/robotcar-complete-side-profile-checkered-mat.jpg" alt="Complete robot, side view" width="360"></a><br><sub>Complete robot, side view</sub></td>
-    <td align="center" width="50%"><a href="projimages/robotcar-complete-overhead-checkered-mat.jpg"><img src="projimages/robotcar-complete-overhead-checkered-mat.jpg" alt="Complete robot, overhead view" width="360"></a><br><sub>Complete robot, overhead view</sub></td>
+    <td align="center" width="50%"><a href="projImages/robotcar-complete-side-profile-checkered-mat.jpg"><img src="projImages/robotcar-complete-side-profile-checkered-mat.jpg" alt="Complete robot, side view" width="360"></a><br><sub>Complete robot, side view</sub></td>
+    <td align="center" width="50%"><a href="projImages/robotcar-complete-overhead-checkered-mat.jpg"><img src="projImages/robotcar-complete-overhead-checkered-mat.jpg" alt="Complete robot, overhead view" width="360"></a><br><sub>Complete robot, overhead view</sub></td>
   </tr>
   <tr>
-    <td align="center" width="50%"><a href="projimages/robotcar-carpet-front-left-angle.jpg"><img src="projimages/robotcar-carpet-front-left-angle.jpg" alt="Front-left angle" width="360"></a><br><sub>Front-left angle</sub></td>
-    <td align="center" width="50%"><a href="projimages/robotcar-carpet-front-overhead-view.jpg"><img src="projimages/robotcar-carpet-front-overhead-view.jpg" alt="Front overhead view" width="360"></a><br><sub>Front overhead view</sub></td>
+    <td align="center" width="50%"><a href="projImages/robotcar-carpet-front-left-angle.jpg"><img src="projImages/robotcar-carpet-front-left-angle.jpg" alt="Front-left angle" width="360"></a><br><sub>Front-left angle</sub></td>
+    <td align="center" width="50%"><a href="projImages/robotcar-carpet-front-overhead-view.jpg"><img src="projImages/robotcar-carpet-front-overhead-view.jpg" alt="Front overhead view" width="360"></a><br><sub>Front overhead view</sub></td>
   </tr>
   <tr>
-    <td align="center" width="50%"><a href="projimages/robotcar-carpet-left-side-profile.jpg"><img src="projimages/robotcar-carpet-left-side-profile.jpg" alt="Left side profile" width="360"></a><br><sub>Left side profile</sub></td>
-    <td align="center" width="50%"><a href="projimages/robotcar-carpet-side-profile.jpg"><img src="projimages/robotcar-carpet-side-profile.jpg" alt="Side profile on carpet" width="360"></a><br><sub>Side profile on carpet</sub></td>
+    <td align="center" width="50%"><a href="projImages/robotcar-carpet-left-side-profile.jpg"><img src="projImages/robotcar-carpet-left-side-profile.jpg" alt="Left side profile" width="360"></a><br><sub>Left side profile</sub></td>
+    <td align="center" width="50%"><a href="projImages/robotcar-carpet-side-profile.jpg"><img src="projImages/robotcar-carpet-side-profile.jpg" alt="Side profile on carpet" width="360"></a><br><sub>Side profile on carpet</sub></td>
   </tr>
   <tr>
-    <td align="center" width="50%"><a href="projimages/robotcar-carpet-side-chassis-view.jpg"><img src="projimages/robotcar-carpet-side-chassis-view.jpg" alt="Chassis and electronics side view" width="360"></a><br><sub>Chassis and electronics side view</sub></td>
-    <td align="center" width="50%"><a href="projimages/robotcar-carpet-overhead-angle.jpg"><img src="projimages/robotcar-carpet-overhead-angle.jpg" alt="Angled overhead chassis view" width="360"></a><br><sub>Angled overhead chassis view</sub></td>
+    <td align="center" width="50%"><a href="projImages/robotcar-carpet-side-chassis-view.jpg"><img src="projImages/robotcar-carpet-side-chassis-view.jpg" alt="Chassis and electronics side view" width="360"></a><br><sub>Chassis and electronics side view</sub></td>
+    <td align="center" width="50%"><a href="projImages/robotcar-carpet-overhead-angle.jpg"><img src="projImages/robotcar-carpet-overhead-angle.jpg" alt="Angled overhead chassis view" width="360"></a><br><sub>Angled overhead chassis view</sub></td>
   </tr>
   <tr>
-    <td align="center" width="50%"><a href="projimages/robotcar-carpet-upper-side-view.jpg"><img src="projimages/robotcar-carpet-upper-side-view.jpg" alt="Upper side of assembled car" width="360"></a><br><sub>Upper side of assembled car</sub></td>
-    <td align="center" width="50%"><a href="projimages/robotcar-checkered-mat-side-view.jpg"><img src="projimages/robotcar-checkered-mat-side-view.jpg" alt="Side view on checkered mat" width="360"></a><br><sub>Side view on checkered mat</sub></td>
+    <td align="center" width="50%"><a href="projImages/robotcar-carpet-upper-side-view.jpg"><img src="projImages/robotcar-carpet-upper-side-view.jpg" alt="Upper side of assembled car" width="360"></a><br><sub>Upper side of assembled car</sub></td>
+    <td align="center" width="50%"><a href="projImages/robotcar-checkered-mat-side-view.jpg"><img src="projImages/robotcar-checkered-mat-side-view.jpg" alt="Side view on checkered mat" width="360"></a><br><sub>Side view on checkered mat</sub></td>
   </tr>
   <tr>
-    <td align="center" width="50%"><a href="projimages/robotcar-full-top-view-chassis-and-components.jpg"><img src="projimages/robotcar-full-top-view-chassis-and-components.jpg" alt="Full chassis and components" width="360"></a><br><sub>Full chassis and components</sub></td>
+    <td align="center" width="50%"><a href="projImages/robotcar-full-top-view-chassis-and-components.jpg"><img src="projImages/robotcar-full-top-view-chassis-and-components.jpg" alt="Full chassis and components" width="360"></a><br><sub>Full chassis and components</sub></td>
   </tr>
 </table>
 
@@ -62,23 +62,23 @@ All photos are stored in [`projimages/`](projimages/).
 
 <table>
   <tr>
-    <td align="center" width="50%"><a href="projimages/robotcar-front-view-sensor-array-and-display.jpg"><img src="projimages/robotcar-front-view-sensor-array-and-display.jpg" alt="Front sensor array and display" width="360"></a><br><sub>Front sensor array and display</sub></td>
-    <td align="center" width="50%"><a href="projimages/robotcar-front-ultrasonic-sensor-array-and-oled.jpg"><img src="projimages/robotcar-front-ultrasonic-sensor-array-and-oled.jpg" alt="Ultrasonic sensor array and OLED" width="360"></a><br><sub>Ultrasonic sensor array and OLED</sub></td>
+    <td align="center" width="50%"><a href="projImages/robotcar-front-view-sensor-array-and-display.jpg"><img src="projImages/robotcar-front-view-sensor-array-and-display.jpg" alt="Front sensor array and display" width="360"></a><br><sub>Front sensor array and display</sub></td>
+    <td align="center" width="50%"><a href="projImages/robotcar-front-ultrasonic-sensor-array-and-oled.jpg"><img src="projImages/robotcar-front-ultrasonic-sensor-array-and-oled.jpg" alt="Ultrasonic sensor array and OLED" width="360"></a><br><sub>Ultrasonic sensor array and OLED</sub></td>
   </tr>
   <tr>
-    <td align="center" width="50%"><a href="projimages/robotcar-front-ultrasonic-sensor-and-servo.jpg"><img src="projimages/robotcar-front-ultrasonic-sensor-and-servo.jpg" alt="Ultrasonic sensor and servo" width="360"></a><br><sub>Ultrasonic sensor and servo</sub></td>
-    <td align="center" width="50%"><a href="projimages/robotcar-front-sensor-assembly-overview.jpg"><img src="projimages/robotcar-front-sensor-assembly-overview.jpg" alt="Front sensor assembly" width="360"></a><br><sub>Front sensor assembly</sub></td>
+    <td align="center" width="50%"><a href="projImages/robotcar-front-ultrasonic-sensor-and-servo.jpg"><img src="projImages/robotcar-front-ultrasonic-sensor-and-servo.jpg" alt="Ultrasonic sensor and servo" width="360"></a><br><sub>Ultrasonic sensor and servo</sub></td>
+    <td align="center" width="50%"><a href="projImages/robotcar-front-sensor-assembly-overview.jpg"><img src="projImages/robotcar-front-sensor-assembly-overview.jpg" alt="Front sensor assembly" width="360"></a><br><sub>Front sensor assembly</sub></td>
   </tr>
   <tr>
-    <td align="center" width="50%"><a href="projimages/robotcar-front-sensor-and-battery-packs.jpg"><img src="projimages/robotcar-front-sensor-and-battery-packs.jpg" alt="Front sensor and battery packs" width="360"></a><br><sub>Front sensor and battery packs</sub></td>
-    <td align="center" width="50%"><a href="projimages/robotcar-servo-mounted-sensor-boards.jpg"><img src="projimages/robotcar-servo-mounted-sensor-boards.jpg" alt="Servo-mounted sensor boards" width="360"></a><br><sub>Servo-mounted sensor boards</sub></td>
+    <td align="center" width="50%"><a href="projImages/robotcar-front-sensor-and-battery-packs.jpg"><img src="projImages/robotcar-front-sensor-and-battery-packs.jpg" alt="Front sensor and battery packs" width="360"></a><br><sub>Front sensor and battery packs</sub></td>
+    <td align="center" width="50%"><a href="projImages/robotcar-servo-mounted-sensor-boards.jpg"><img src="projImages/robotcar-servo-mounted-sensor-boards.jpg" alt="Servo-mounted sensor boards" width="360"></a><br><sub>Servo-mounted sensor boards</sub></td>
   </tr>
   <tr>
-    <td align="center" width="50%"><a href="projimages/robotcar-checkered-mat-sensors-closeup.jpg"><img src="projimages/robotcar-checkered-mat-sensors-closeup.jpg" alt="Sensors close-up" width="360"></a><br><sub>Sensors close-up</sub></td>
-    <td align="center" width="50%"><a href="projimages/robotcar-top-view-sensors-and-display.jpg"><img src="projimages/robotcar-top-view-sensors-and-display.jpg" alt="Sensors and display from above" width="360"></a><br><sub>Sensors and display from above</sub></td>
+    <td align="center" width="50%"><a href="projImages/robotcar-checkered-mat-sensors-closeup.jpg"><img src="projImages/robotcar-checkered-mat-sensors-closeup.jpg" alt="Sensors close-up" width="360"></a><br><sub>Sensors close-up</sub></td>
+    <td align="center" width="50%"><a href="projImages/robotcar-top-view-sensors-and-display.jpg"><img src="projImages/robotcar-top-view-sensors-and-display.jpg" alt="Sensors and display from above" width="360"></a><br><sub>Sensors and display from above</sub></td>
   </tr>
   <tr>
-    <td align="center" width="50%"><a href="projimages/robotcar-angled-top-view-display-and-sensors.jpg"><img src="projimages/robotcar-angled-top-view-display-and-sensors.jpg" alt="Display and sensors at an angle" width="360"></a><br><sub>Display and sensors at an angle</sub></td>
+    <td align="center" width="50%"><a href="projImages/robotcar-angled-top-view-display-and-sensors.jpg"><img src="projImages/robotcar-angled-top-view-display-and-sensors.jpg" alt="Display and sensors at an angle" width="360"></a><br><sub>Display and sensors at an angle</sub></td>
   </tr>
 </table>
 
@@ -86,19 +86,19 @@ All photos are stored in [`projimages/`](projimages/).
 
 <table>
   <tr>
-    <td align="center" width="50%"><a href="projimages/robotcar-angled-top-view-wiring-and-pi.jpg"><img src="projimages/robotcar-angled-top-view-wiring-and-pi.jpg" alt="Wiring and Raspberry Pi" width="360"></a><br><sub>Wiring and Raspberry Pi</sub></td>
-    <td align="center" width="50%"><a href="projimages/robotcar-raspberry-pi-and-breadboard-overhead.jpg"><img src="projimages/robotcar-raspberry-pi-and-breadboard-overhead.jpg" alt="Raspberry Pi and breadboard" width="360"></a><br><sub>Raspberry Pi and breadboard</sub></td>
+    <td align="center" width="50%"><a href="projImages/robotcar-angled-top-view-wiring-and-pi.jpg"><img src="projImages/robotcar-angled-top-view-wiring-and-pi.jpg" alt="Wiring and Raspberry Pi" width="360"></a><br><sub>Wiring and Raspberry Pi</sub></td>
+    <td align="center" width="50%"><a href="projImages/robotcar-raspberry-pi-and-breadboard-overhead.jpg"><img src="projImages/robotcar-raspberry-pi-and-breadboard-overhead.jpg" alt="Raspberry Pi and breadboard" width="360"></a><br><sub>Raspberry Pi and breadboard</sub></td>
   </tr>
   <tr>
-    <td align="center" width="50%"><a href="projimages/robotcar-raspberry-pi-wiring-closeup.jpg"><img src="projimages/robotcar-raspberry-pi-wiring-closeup.jpg" alt="Raspberry Pi wiring close-up" width="360"></a><br><sub>Raspberry Pi wiring close-up</sub></td>
-    <td align="center" width="50%"><a href="projimages/robotcar-raspberry-pi-ribbon-cable-closeup.jpg"><img src="projimages/robotcar-raspberry-pi-ribbon-cable-closeup.jpg" alt="Raspberry Pi ribbon cable" width="360"></a><br><sub>Raspberry Pi ribbon cable</sub></td>
+    <td align="center" width="50%"><a href="projImages/robotcar-raspberry-pi-wiring-closeup.jpg"><img src="projImages/robotcar-raspberry-pi-wiring-closeup.jpg" alt="Raspberry Pi wiring close-up" width="360"></a><br><sub>Raspberry Pi wiring close-up</sub></td>
+    <td align="center" width="50%"><a href="projImages/robotcar-raspberry-pi-ribbon-cable-closeup.jpg"><img src="projImages/robotcar-raspberry-pi-ribbon-cable-closeup.jpg" alt="Raspberry Pi ribbon cable" width="360"></a><br><sub>Raspberry Pi ribbon cable</sub></td>
   </tr>
   <tr>
-    <td align="center" width="50%"><a href="projimages/robotcar-ribbon-cable-and-wiring-overhead.jpg"><img src="projimages/robotcar-ribbon-cable-and-wiring-overhead.jpg" alt="Ribbon cable and wiring overhead" width="360"></a><br><sub>Ribbon cable and wiring overhead</sub></td>
-    <td align="center" width="50%"><a href="projimages/robotcar-side-electronics-and-power-view.jpg"><img src="projimages/robotcar-side-electronics-and-power-view.jpg" alt="Electronics and power from the side" width="360"></a><br><sub>Electronics and power from the side</sub></td>
+    <td align="center" width="50%"><a href="projImages/robotcar-ribbon-cable-and-wiring-overhead.jpg"><img src="projImages/robotcar-ribbon-cable-and-wiring-overhead.jpg" alt="Ribbon cable and wiring overhead" width="360"></a><br><sub>Ribbon cable and wiring overhead</sub></td>
+    <td align="center" width="50%"><a href="projImages/robotcar-side-electronics-and-power-view.jpg"><img src="projImages/robotcar-side-electronics-and-power-view.jpg" alt="Electronics and power from the side" width="360"></a><br><sub>Electronics and power from the side</sub></td>
   </tr>
   <tr>
-    <td align="center" width="50%"><a href="projimages/robotcar-top-view-raspberry-pi-and-power-bank.jpg"><img src="projimages/robotcar-top-view-raspberry-pi-and-power-bank.jpg" alt="Raspberry Pi and power bank" width="360"></a><br><sub>Raspberry Pi and power bank</sub></td>
+    <td align="center" width="50%"><a href="projImages/robotcar-top-view-raspberry-pi-and-power-bank.jpg"><img src="projImages/robotcar-top-view-raspberry-pi-and-power-bank.jpg" alt="Raspberry Pi and power bank" width="360"></a><br><sub>Raspberry Pi and power bank</sub></td>
   </tr>
 </table>
 
@@ -106,12 +106,12 @@ All photos are stored in [`projimages/`](projimages/).
 
 <table>
   <tr>
-    <td align="center" width="50%"><a href="projimages/robotcar-early-prototype-motors-and-controller.jpg"><img src="projimages/robotcar-early-prototype-motors-and-controller.jpg" alt="Early motors and controller prototype" width="360"></a><br><sub>Early motors and controller prototype</sub></td>
-    <td align="center" width="50%"><a href="projimages/robotcar-early-prototype-motor-driver-and-pi-case.jpg"><img src="projimages/robotcar-early-prototype-motor-driver-and-pi-case.jpg" alt="Early motor driver and Raspberry Pi case" width="360"></a><br><sub>Early motor driver and Raspberry Pi case</sub></td>
+    <td align="center" width="50%"><a href="projImages/robotcar-early-prototype-motors-and-controller.jpg"><img src="projImages/robotcar-early-prototype-motors-and-controller.jpg" alt="Early motors and controller prototype" width="360"></a><br><sub>Early motors and controller prototype</sub></td>
+    <td align="center" width="50%"><a href="projImages/robotcar-early-prototype-motor-driver-and-pi-case.jpg"><img src="projImages/robotcar-early-prototype-motor-driver-and-pi-case.jpg" alt="Early motor driver and Raspberry Pi case" width="360"></a><br><sub>Early motor driver and Raspberry Pi case</sub></td>
   </tr>
   <tr>
-    <td align="center" width="50%"><a href="projimages/robotcar-prototype-pi-breadboard-and-power.jpg"><img src="projimages/robotcar-prototype-pi-breadboard-and-power.jpg" alt="Prototype Raspberry Pi, breadboard, and power" width="360"></a><br><sub>Prototype Raspberry Pi, breadboard, and power</sub></td>
-    <td align="center" width="50%"><a href="projimages/robotcar-prototype-ultrasonic-sensor-servo-mount.jpg"><img src="projimages/robotcar-prototype-ultrasonic-sensor-servo-mount.jpg" alt="Prototype ultrasonic sensor servo mount" width="360"></a><br><sub>Prototype ultrasonic sensor servo mount</sub></td>
+    <td align="center" width="50%"><a href="projImages/robotcar-prototype-pi-breadboard-and-power.jpg"><img src="projImages/robotcar-prototype-pi-breadboard-and-power.jpg" alt="Prototype Raspberry Pi, breadboard, and power" width="360"></a><br><sub>Prototype Raspberry Pi, breadboard, and power</sub></td>
+    <td align="center" width="50%"><a href="projImages/robotcar-prototype-ultrasonic-sensor-servo-mount.jpg"><img src="projImages/robotcar-prototype-ultrasonic-sensor-servo-mount.jpg" alt="Prototype ultrasonic sensor servo mount" width="360"></a><br><sub>Prototype ultrasonic sensor servo mount</sub></td>
   </tr>
 </table>
 
