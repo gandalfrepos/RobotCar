@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>OM.</strong> &nbsp;/&nbsp; SELECTED WORK &nbsp;/&nbsp; ROBOTICS
+  <a href="https://omspace.dev"><strong>OM.</strong></a> &nbsp;/&nbsp; SELECTED WORK &nbsp;/&nbsp; ROBOTICS
 </p>
 
 <h1 align="center">Autonomous RobotCar</h1>
@@ -13,6 +13,7 @@
 </p>
 
 <p align="center">
+  <a href="https://omspace.dev/pages/project-robot-car.html">Project story</a> &nbsp;·&nbsp;
   <a href="https://www.youtube.com/watch?v=gdj-aWxs_uI">Watch demo</a> &nbsp;·&nbsp;
   <a href="GALLERY.md">Photo gallery</a> &nbsp;·&nbsp;
   <a href="docs/BUILD.md">Build guide</a>
@@ -150,10 +151,35 @@ sudo apt install -y python3-gpiozero
 
 ## Build gallery
 
-The separate photo gallery documents **31 photos** of the finished chassis, sensors, Raspberry Pi, wiring, power system, and early development prototypes.
+Explore **31 photos** documenting RobotCar's complete chassis, ultrasonic sensors, Raspberry Pi wiring, and early prototypes. Here is a preview of the build.
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <a href="projImages/robotcar-complete-side-profile-checkered-mat.jpg">
+        <img src="projImages/robotcar-complete-side-profile-checkered-mat.jpg" alt="Completed RobotCar side view" width="145">
+      </a><br><sub>COMPLETE BUILD</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="projImages/robotcar-front-view-sensor-array-and-display.jpg">
+        <img src="projImages/robotcar-front-view-sensor-array-and-display.jpg" alt="Ultrasonic sensor array and display" width="145">
+      </a><br><sub>SENSORS &amp; DISPLAY</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="projImages/robotcar-raspberry-pi-wiring-closeup.jpg">
+        <img src="projImages/robotcar-raspberry-pi-wiring-closeup.jpg" alt="Raspberry Pi and wiring detail" width="145">
+      </a><br><sub>ELECTRONICS</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="projImages/robotcar-early-prototype-motors-and-controller.jpg">
+        <img src="projImages/robotcar-early-prototype-motors-and-controller.jpg" alt="Early RobotCar motor and controller prototype" width="145">
+      </a><br><sub>EARLY PROTOTYPE</sub>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <a href="GALLERY.md"><strong>View the full photo gallery →</strong></a>
+  <a href="GALLERY.md"><strong>Explore all 31 photos in the full gallery →</strong></a>
 </p>
 
 The original images are stored in [`projImages/`](projImages/).
@@ -197,7 +223,7 @@ Ultrasonic distance readings indicate how far away an obstacle is, but not what 
 ---
 
 <p align="center">
-  strong>OM.</strong><br>
+  <a href="https://omspace.dev"><strong>OM.</strong></a><br>
   <sub>Built by Om Chatterjee · Robotics · Software · Learning by building</sub><br>
- <a href="GALLERY.md">Photo gallery</a> &nbsp;·&nbsp; <a href="#autonomous-robotcar">Back to top ↑</a>
+  <a href="https://omspace.dev/pages/project-robot-car.html">Project portfolio</a> &nbsp;·&nbsp; <a href="GALLERY.md">Photo gallery</a> &nbsp;·&nbsp; <a href="#autonomous-robotcar">Back to top ↑</a>
 </p>
