@@ -1,5 +1,9 @@
 # 🤖 RobotCar
 
+<p align="center">
+  <img src="projImages/robocarheroimage.png" alt="Om's RobotCar" width="650">
+</p>
+
 A Raspberry Pi-powered four-wheel robot car with manual control and autonomous obstacle avoidance.
 
 The car uses two DRV8833 motor drivers, four DC motors, and three ultrasonic sensors to detect obstacles and navigate around them.
